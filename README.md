@@ -37,3 +37,10 @@ ________________________________________________________________________________
   * **Security & Hardware:** Nmap, Metasploit, кастомные persistence-среды, создание печатных плат, сборка DC-UPS.
   
   Быстро учусь, копаю глубоко и решаю проблемы на любом уровне стека.
+
+### 🛠 Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,py,linux,bash,vscode,github&theme=dark" />
+  </a>
+</p>
