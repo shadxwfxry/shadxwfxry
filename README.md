@@ -44,6 +44,6 @@ ___
 ### 🛠 Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,py,C,linux,kali,bash,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,py,c,linux,kali,bash,vscode&theme=dark" />
   </a>
 </p>
